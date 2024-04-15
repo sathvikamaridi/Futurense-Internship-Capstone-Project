@@ -9,9 +9,7 @@ This repository is the capstone project done in the 6th Week of the Futurense In
 The Deliverables of the Project are:
 
 - Project Outline Document
-
 - Project Source Code
-
 - Project PPT
-
 - Project Report
+- Fifa_eda_stats (Dataset)
